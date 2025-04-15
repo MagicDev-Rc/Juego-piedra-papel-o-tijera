@@ -1,11 +1,11 @@
 ## JUEGO: piedra, papel o tijera
 
-#### Breve descripción del Proyecto
+### Breve descripción del Proyecto
 <p>
 Un divertido juego de Piedra, Papel o Tijera implementado en Python para la consola. El juego permite al usuario jugar contra la computadora en partidas de 3 rondas. Se han utilizado funciones personalizadas y la función random.choice() de Python para la lógica del juego y la elección de la computadora. Además, se ha implementado un menú interactivo para una mejor experiencia del usuario.
 </p>
 
-#### Características Principales
+### Características Principales
 1. Juego de 3 Rondas: Cada partida consta de tres rondas para determinar al ganador.
 2. Oponente Computadora: El usuario juega contra la computadora que elige su jugada de forma aleatoria.
 3. Implementación con Funciones: El código está organizado en funciones para una mejor legibilidad y reutilización.
@@ -14,12 +14,12 @@ Un divertido juego de Piedra, Papel o Tijera implementado en Python para la cons
 6. Lógica Clara: La lógica del juego (quién gana cada ronda) está implementada de forma concisa.
 7. Retroalimentación en Consola: Se muestra información clara sobre las elecciones del jugador y la computadora, así como el resultado de cada ronda y el ganador final.
 
-#### Herramientas y tecnologias utilizadas
+### Herramientas y tecnologias utilizadas
 - Editor de texto: Visual Studio Code (vsc)
 - Lenguaje de programación: Python
 - Módulo random: Utilizado para la elección aleatoria de la computadora mediante la función random.choice().
 
-#### Cómo Ejecutar el Juego
+### Cómo Ejecutar el Juego
 1. Requisitos:
 Tener cualquier versión de Python 3 instalado en tu sistema. Puedes descargarlo desde https://www.python.org/downloads/.
 2. Descargar el Repositorio:
